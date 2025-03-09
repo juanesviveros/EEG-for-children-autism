@@ -14,5 +14,5 @@
     K --> L;
     L --> M[Ajustes finales y detalles de presentación];
     M --> N[Preparación y exposición del proyecto con su documentación];
-    N --> O[Completed del proyecto con su documentación];
+    N --> O[Finalizacion del proyecto con su documentación];
     O --> P[Completed];
